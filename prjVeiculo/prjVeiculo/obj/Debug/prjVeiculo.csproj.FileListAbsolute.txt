@@ -1,0 +1,7 @@
+C:\Users\0031432312007\source\repos\prjVeiculo\prjVeiculo\bin\Debug\prjVeiculo.exe.config
+C:\Users\0031432312007\source\repos\prjVeiculo\prjVeiculo\bin\Debug\prjVeiculo.exe
+C:\Users\0031432312007\source\repos\prjVeiculo\prjVeiculo\bin\Debug\prjVeiculo.pdb
+C:\Users\0031432312007\source\repos\prjVeiculo\prjVeiculo\obj\Debug\prjVeiculo.csproj.AssemblyReference.cache
+C:\Users\0031432312007\source\repos\prjVeiculo\prjVeiculo\obj\Debug\prjVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\0031432312007\source\repos\prjVeiculo\prjVeiculo\obj\Debug\prjVeiculo.exe
+C:\Users\0031432312007\source\repos\prjVeiculo\prjVeiculo\obj\Debug\prjVeiculo.pdb
