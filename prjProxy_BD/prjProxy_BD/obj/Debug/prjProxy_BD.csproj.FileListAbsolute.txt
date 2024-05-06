@@ -1,0 +1,7 @@
+C:\Users\0031432312007\source\repos\prjProxy_BD\prjProxy_BD\bin\Debug\prjProxy_BD.exe.config
+C:\Users\0031432312007\source\repos\prjProxy_BD\prjProxy_BD\bin\Debug\prjProxy_BD.exe
+C:\Users\0031432312007\source\repos\prjProxy_BD\prjProxy_BD\bin\Debug\prjProxy_BD.pdb
+C:\Users\0031432312007\source\repos\prjProxy_BD\prjProxy_BD\obj\Debug\prjProxy_BD.csproj.AssemblyReference.cache
+C:\Users\0031432312007\source\repos\prjProxy_BD\prjProxy_BD\obj\Debug\prjProxy_BD.csproj.CoreCompileInputs.cache
+C:\Users\0031432312007\source\repos\prjProxy_BD\prjProxy_BD\obj\Debug\prjProxy_BD.exe
+C:\Users\0031432312007\source\repos\prjProxy_BD\prjProxy_BD\obj\Debug\prjProxy_BD.pdb
