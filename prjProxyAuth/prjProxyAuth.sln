@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjProxyAuth", "prjProxyAuth\prjProxyAuth.csproj", "{7B024095-1C28-4009-8D4F-0B9806666BF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B024095-1C28-4009-8D4F-0B9806666BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B024095-1C28-4009-8D4F-0B9806666BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B024095-1C28-4009-8D4F-0B9806666BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B024095-1C28-4009-8D4F-0B9806666BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28C95630-464B-45FC-A6DA-45E20A2BB899}
+	EndGlobalSection
+EndGlobal

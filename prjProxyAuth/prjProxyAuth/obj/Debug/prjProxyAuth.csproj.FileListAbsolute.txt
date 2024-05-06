@@ -1,0 +1,7 @@
+C:\Users\0031432312007\source\repos\prjProxyAuth\prjProxyAuth\bin\Debug\prjProxyAuth.exe.config
+C:\Users\0031432312007\source\repos\prjProxyAuth\prjProxyAuth\bin\Debug\prjProxyAuth.exe
+C:\Users\0031432312007\source\repos\prjProxyAuth\prjProxyAuth\bin\Debug\prjProxyAuth.pdb
+C:\Users\0031432312007\source\repos\prjProxyAuth\prjProxyAuth\obj\Debug\prjProxyAuth.csproj.AssemblyReference.cache
+C:\Users\0031432312007\source\repos\prjProxyAuth\prjProxyAuth\obj\Debug\prjProxyAuth.csproj.CoreCompileInputs.cache
+C:\Users\0031432312007\source\repos\prjProxyAuth\prjProxyAuth\obj\Debug\prjProxyAuth.exe
+C:\Users\0031432312007\source\repos\prjProxyAuth\prjProxyAuth\obj\Debug\prjProxyAuth.pdb
