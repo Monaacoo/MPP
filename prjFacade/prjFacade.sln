@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjFacade", "prjFacade\prjFacade.csproj", "{52094F13-F86D-4A0B-A4B6-6A7BB65D53AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52094F13-F86D-4A0B-A4B6-6A7BB65D53AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52094F13-F86D-4A0B-A4B6-6A7BB65D53AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52094F13-F86D-4A0B-A4B6-6A7BB65D53AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52094F13-F86D-4A0B-A4B6-6A7BB65D53AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47BF5E7F-5D16-4270-9A7A-754C938304C0}
+	EndGlobalSection
+EndGlobal

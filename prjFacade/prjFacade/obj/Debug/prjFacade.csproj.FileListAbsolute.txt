@@ -1,0 +1,7 @@
+C:\Users\0031432312007\source\repos\prjFacade\prjFacade\bin\Debug\prjFacade.exe.config
+C:\Users\0031432312007\source\repos\prjFacade\prjFacade\bin\Debug\prjFacade.exe
+C:\Users\0031432312007\source\repos\prjFacade\prjFacade\bin\Debug\prjFacade.pdb
+C:\Users\0031432312007\source\repos\prjFacade\prjFacade\obj\Debug\prjFacade.csproj.AssemblyReference.cache
+C:\Users\0031432312007\source\repos\prjFacade\prjFacade\obj\Debug\prjFacade.csproj.CoreCompileInputs.cache
+C:\Users\0031432312007\source\repos\prjFacade\prjFacade\obj\Debug\prjFacade.exe
+C:\Users\0031432312007\source\repos\prjFacade\prjFacade\obj\Debug\prjFacade.pdb
