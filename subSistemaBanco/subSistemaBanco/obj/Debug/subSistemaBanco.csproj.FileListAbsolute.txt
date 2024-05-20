@@ -1,0 +1,2 @@
+C:\Users\0031432312007\Downloads\subSistemaBanco\subSistemaBanco\obj\Debug\subSistemaBanco.csproj.AssemblyReference.cache
+C:\Users\0031432312007\Downloads\subSistemaBanco\subSistemaBanco\obj\Debug\subSistemaBanco.csproj.CoreCompileInputs.cache
