@@ -1,0 +1,7 @@
+C:\Users\0031432312007\source\repos\prjCafe\prjCafe\bin\Debug\prjCafe.exe.config
+C:\Users\0031432312007\source\repos\prjCafe\prjCafe\bin\Debug\prjCafe.exe
+C:\Users\0031432312007\source\repos\prjCafe\prjCafe\bin\Debug\prjCafe.pdb
+C:\Users\0031432312007\source\repos\prjCafe\prjCafe\obj\Debug\prjCafe.csproj.AssemblyReference.cache
+C:\Users\0031432312007\source\repos\prjCafe\prjCafe\obj\Debug\prjCafe.csproj.CoreCompileInputs.cache
+C:\Users\0031432312007\source\repos\prjCafe\prjCafe\obj\Debug\prjCafe.exe
+C:\Users\0031432312007\source\repos\prjCafe\prjCafe\obj\Debug\prjCafe.pdb
