@@ -1,7 +1,0 @@
-C:\Users\0031432312007\source\repos\prjDecorator\prjDecorator\bin\Debug\prjDecorator.exe.config
-C:\Users\0031432312007\source\repos\prjDecorator\prjDecorator\bin\Debug\prjDecorator.exe
-C:\Users\0031432312007\source\repos\prjDecorator\prjDecorator\bin\Debug\prjDecorator.pdb
-C:\Users\0031432312007\source\repos\prjDecorator\prjDecorator\obj\Debug\prjDecorator.csproj.AssemblyReference.cache
-C:\Users\0031432312007\source\repos\prjDecorator\prjDecorator\obj\Debug\prjDecorator.csproj.CoreCompileInputs.cache
-C:\Users\0031432312007\source\repos\prjDecorator\prjDecorator\obj\Debug\prjDecorator.exe
-C:\Users\0031432312007\source\repos\prjDecorator\prjDecorator\obj\Debug\prjDecorator.pdb
