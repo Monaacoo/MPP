@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Funcionario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>101</Id>
+  <Name>Grabriel</Name>
+  <SalarioBase>3000</SalarioBase>
+  <Incentivo>2000</Incentivo>
+  <SalarioTotal>5000</SalarioTotal>
+</Funcionario>

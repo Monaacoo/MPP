@@ -1,0 +1,10 @@
+C:\Users\0031432312007\source\repos\prjBridge\prjBridge\bin\Debug\prjBridge.exe.config
+C:\Users\0031432312007\source\repos\prjBridge\prjBridge\bin\Debug\prjBridge.exe
+C:\Users\0031432312007\source\repos\prjBridge\prjBridge\bin\Debug\prjBridge.pdb
+C:\Users\0031432312007\source\repos\prjBridge\prjBridge\bin\Debug\Newtonsoft.Json.dll
+C:\Users\0031432312007\source\repos\prjBridge\prjBridge\bin\Debug\Newtonsoft.Json.xml
+C:\Users\0031432312007\source\repos\prjBridge\prjBridge\obj\Debug\prjBridge.csproj.AssemblyReference.cache
+C:\Users\0031432312007\source\repos\prjBridge\prjBridge\obj\Debug\prjBridge.csproj.CoreCompileInputs.cache
+C:\Users\0031432312007\source\repos\prjBridge\prjBridge\obj\Debug\prjBridge.csproj.Up2Date
+C:\Users\0031432312007\source\repos\prjBridge\prjBridge\obj\Debug\prjBridge.exe
+C:\Users\0031432312007\source\repos\prjBridge\prjBridge\obj\Debug\prjBridge.pdb
