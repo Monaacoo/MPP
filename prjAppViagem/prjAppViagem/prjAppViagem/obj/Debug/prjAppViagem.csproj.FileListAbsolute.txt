@@ -1,7 +1,0 @@
-C:\Users\0031432312025\source\repos\prjAppViagem\prjAppViagem\bin\Debug\prjAppViagem.exe.config
-C:\Users\0031432312025\source\repos\prjAppViagem\prjAppViagem\bin\Debug\prjAppViagem.exe
-C:\Users\0031432312025\source\repos\prjAppViagem\prjAppViagem\bin\Debug\prjAppViagem.pdb
-C:\Users\0031432312025\source\repos\prjAppViagem\prjAppViagem\obj\Debug\prjAppViagem.csproj.AssemblyReference.cache
-C:\Users\0031432312025\source\repos\prjAppViagem\prjAppViagem\obj\Debug\prjAppViagem.csproj.CoreCompileInputs.cache
-C:\Users\0031432312025\source\repos\prjAppViagem\prjAppViagem\obj\Debug\prjAppViagem.exe
-C:\Users\0031432312025\source\repos\prjAppViagem\prjAppViagem\obj\Debug\prjAppViagem.pdb
