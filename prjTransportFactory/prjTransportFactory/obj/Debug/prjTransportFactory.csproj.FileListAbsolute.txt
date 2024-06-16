@@ -1,0 +1,7 @@
+C:\Users\0031432312025\source\repos\prjTransportFactory\prjTransportFactory\obj\Debug\prjTransportFactory.csproj.AssemblyReference.cache
+C:\Users\0031432312025\source\repos\prjTransportFactory\prjTransportFactory\obj\Debug\prjTransportFactory.csproj.CoreCompileInputs.cache
+C:\Users\0031432312025\source\repos\prjTransportFactory\prjTransportFactory\bin\Debug\prjTransportFactory.exe.config
+C:\Users\0031432312025\source\repos\prjTransportFactory\prjTransportFactory\bin\Debug\prjTransportFactory.exe
+C:\Users\0031432312025\source\repos\prjTransportFactory\prjTransportFactory\bin\Debug\prjTransportFactory.pdb
+C:\Users\0031432312025\source\repos\prjTransportFactory\prjTransportFactory\obj\Debug\prjTransportFactory.exe
+C:\Users\0031432312025\source\repos\prjTransportFactory\prjTransportFactory\obj\Debug\prjTransportFactory.pdb
