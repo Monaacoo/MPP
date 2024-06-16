@@ -1,0 +1,7 @@
+C:\Users\0031432312025\source\repos\prjAdapter\prjAdapter\bin\Debug\prjAdapter.exe.config
+C:\Users\0031432312025\source\repos\prjAdapter\prjAdapter\bin\Debug\prjAdapter.exe
+C:\Users\0031432312025\source\repos\prjAdapter\prjAdapter\bin\Debug\prjAdapter.pdb
+C:\Users\0031432312025\source\repos\prjAdapter\prjAdapter\obj\Debug\prjAdapter.csproj.AssemblyReference.cache
+C:\Users\0031432312025\source\repos\prjAdapter\prjAdapter\obj\Debug\prjAdapter.csproj.CoreCompileInputs.cache
+C:\Users\0031432312025\source\repos\prjAdapter\prjAdapter\obj\Debug\prjAdapter.exe
+C:\Users\0031432312025\source\repos\prjAdapter\prjAdapter\obj\Debug\prjAdapter.pdb
