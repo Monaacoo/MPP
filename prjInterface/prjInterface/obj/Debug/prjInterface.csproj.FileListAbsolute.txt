@@ -1,0 +1,7 @@
+C:\Users\Silvana Godoy\source\repos\prjInterface\prjInterface\bin\Debug\prjInterface.exe.config
+C:\Users\Silvana Godoy\source\repos\prjInterface\prjInterface\bin\Debug\prjInterface.exe
+C:\Users\Silvana Godoy\source\repos\prjInterface\prjInterface\bin\Debug\prjInterface.pdb
+C:\Users\Silvana Godoy\source\repos\prjInterface\prjInterface\obj\Debug\prjInterface.csproj.AssemblyReference.cache
+C:\Users\Silvana Godoy\source\repos\prjInterface\prjInterface\obj\Debug\prjInterface.csproj.CoreCompileInputs.cache
+C:\Users\Silvana Godoy\source\repos\prjInterface\prjInterface\obj\Debug\prjInterface.exe
+C:\Users\Silvana Godoy\source\repos\prjInterface\prjInterface\obj\Debug\prjInterface.pdb
