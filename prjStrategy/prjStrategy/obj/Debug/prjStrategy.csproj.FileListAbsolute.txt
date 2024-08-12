@@ -1,0 +1,7 @@
+C:\Users\0031432312025\source\repos\prjStrategy\prjStrategy\obj\Debug\prjStrategy.csproj.AssemblyReference.cache
+C:\Users\0031432312025\source\repos\prjStrategy\prjStrategy\obj\Debug\prjStrategy.csproj.CoreCompileInputs.cache
+C:\Users\0031432312025\source\repos\prjStrategy\prjStrategy\bin\Debug\prjStrategy.exe.config
+C:\Users\0031432312025\source\repos\prjStrategy\prjStrategy\bin\Debug\prjStrategy.exe
+C:\Users\0031432312025\source\repos\prjStrategy\prjStrategy\bin\Debug\prjStrategy.pdb
+C:\Users\0031432312025\source\repos\prjStrategy\prjStrategy\obj\Debug\prjStrategy.exe
+C:\Users\0031432312025\source\repos\prjStrategy\prjStrategy\obj\Debug\prjStrategy.pdb
