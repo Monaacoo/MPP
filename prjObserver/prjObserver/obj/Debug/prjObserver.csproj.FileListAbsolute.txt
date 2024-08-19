@@ -1,0 +1,7 @@
+C:\Users\0031432312007\source\repos\prjObserver\prjObserver\bin\Debug\prjObserver.exe.config
+C:\Users\0031432312007\source\repos\prjObserver\prjObserver\bin\Debug\prjObserver.exe
+C:\Users\0031432312007\source\repos\prjObserver\prjObserver\bin\Debug\prjObserver.pdb
+C:\Users\0031432312007\source\repos\prjObserver\prjObserver\obj\Debug\prjObserver.csproj.AssemblyReference.cache
+C:\Users\0031432312007\source\repos\prjObserver\prjObserver\obj\Debug\prjObserver.csproj.CoreCompileInputs.cache
+C:\Users\0031432312007\source\repos\prjObserver\prjObserver\obj\Debug\prjObserver.exe
+C:\Users\0031432312007\source\repos\prjObserver\prjObserver\obj\Debug\prjObserver.pdb
