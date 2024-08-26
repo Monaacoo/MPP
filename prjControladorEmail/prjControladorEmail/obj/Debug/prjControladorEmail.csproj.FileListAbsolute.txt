@@ -1,0 +1,7 @@
+C:\Users\0031432312025\Downloads\prjControladorEmail\prjControladorEmail\bin\Debug\prjControladorEmail.exe.config
+C:\Users\0031432312025\Downloads\prjControladorEmail\prjControladorEmail\bin\Debug\prjControladorEmail.exe
+C:\Users\0031432312025\Downloads\prjControladorEmail\prjControladorEmail\bin\Debug\prjControladorEmail.pdb
+C:\Users\0031432312025\Downloads\prjControladorEmail\prjControladorEmail\obj\Debug\prjControladorEmail.csproj.AssemblyReference.cache
+C:\Users\0031432312025\Downloads\prjControladorEmail\prjControladorEmail\obj\Debug\prjControladorEmail.csproj.CoreCompileInputs.cache
+C:\Users\0031432312025\Downloads\prjControladorEmail\prjControladorEmail\obj\Debug\prjControladorEmail.exe
+C:\Users\0031432312025\Downloads\prjControladorEmail\prjControladorEmail\obj\Debug\prjControladorEmail.pdb
